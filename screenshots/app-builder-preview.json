@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ADL NEXUS",
+      "hasCanvas": false,
+      "bodyTextLen": 918,
+      "bodyTextHash": "34e5eaf9e72137ab7a07c1d619e542e2768677ec3a8794d21177258db18a3cd1",
+      "bodyTextPrefix": "Atomic Dream Labs NEXUS 2.0 Command Missions Workforce Operation",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ADL NEXUS",
+      "hasCanvas": false,
+      "bodyTextLen": 1002,
+      "bodyTextHash": "2083897bf5636cbb881cd713086f5c00c6c8e41238fe6f2187537b2f958383b8",
+      "bodyTextPrefix": "Atomic Dream Labs NEXUS 2.0 Sign in Command Missions Workforce O",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

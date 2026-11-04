@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="ADL NEXUS">
+  <rect width="32" height="32" rx="7" fill="#0e0f0d"/>
+  <g fill="#e4e1d6">
+    <rect x="8" y="8" width="4.6" height="16"/>
+    <rect x="19.4" y="8" width="4.6" height="16"/>
+    <polygon points="12.6,8 16.6,8 24,24 20,24"/>
+  </g>
+</svg>
